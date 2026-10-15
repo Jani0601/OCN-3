@@ -35,9 +35,18 @@ The system is *instrumented* with:
    - The index is displayed in the upper right corner of the layout.  
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
----
-## Result
+  
+## TABULATION 
+<img width="1600" height="1290" alt="image" src="https://github.com/user-attachments/assets/ecbcaf11-3a8a-4345-b591-87a18cdd49b4" />
 
 ---
+## Observation
+<img width="1917" height="1027" alt="Screenshot 2026-10-15 134136" src="https://github.com/user-attachments/assets/5bacf02d-825a-4488-a9fd-b8d07b25059f" />
+
+<img width="883" height="717" alt="Screenshot 2026-10-15 134152" src="https://github.com/user-attachments/assets/105e3702-29b6-4d9d-b59c-8528d08c0437" />
+
+---
+## RESULT:
+Thus Optiperformer software was installed and Link performance is evaluated.
 
 
